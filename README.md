@@ -22,7 +22,7 @@ Can approve the loan request
 
 Code link :
 
-https://github.com/abdullahallnaim/django-banking
+https://github.com/jafrul55/JATBANK/tree/main
  
 Some Features you can work for : 
 Can transfer the amount from his account to another user account.
